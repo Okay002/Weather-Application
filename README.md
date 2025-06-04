@@ -40,7 +40,11 @@ A modern and responsive weather application that provides real-time weather info
 
 ## Screenshot 📸
 <div align="center">
-  <img src="shot.jpg" alt="Weather website " width="800"/>
+  <img src="Delhi.jpg" alt="Weather website " width="800"/>
+</div>
+
+<div align="center">
+  <img src="raj.jpg" alt="Weather website " width="800"/>
 </div>
 
 
