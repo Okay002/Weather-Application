@@ -39,12 +39,16 @@ A modern and responsive weather application that provides real-time weather info
 - Mist
 
 ## Screenshot 📸
+### Weather Display for Delhi
 <div align="center">
   <img src="Delhi.jpg" alt="Weather website " width="800"/>
+  <p>The application displaying current weather conditions for Delhi, featuring temperature, humidity, and wind speed with a clean, modern interface.</p>
 </div>
 
+### Weather Display for Rajasthan
 <div align="center">
   <img src="raj.jpg" alt="Weather website " width="800"/>
+  <p>The application showing weather information for Rajasthan, demonstrating the responsive design and dynamic weather icon system.</p>
 </div>
 
 
